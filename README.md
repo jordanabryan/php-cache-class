@@ -1,6 +1,6 @@
 # Simple PHP Cache Class
 
-This is a simple php cache class with testing document. This class saves a string of html to a .txt file for later retrival. This will cut down on database calls and will retireve 
+This is a simple php cache class with testing document. This class saves a string of html to a .txt file for later retrival. The class retireves the content of the .txt file instead of having a database call the retieve contents
 
 
 ### Future updates
