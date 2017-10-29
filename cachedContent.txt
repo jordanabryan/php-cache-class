@@ -1,0 +1,4 @@
+<div class="demo-wrapper">
+		<h1>Title of the content</h1>
+		<p>This is some content!</p>
+	</div>
